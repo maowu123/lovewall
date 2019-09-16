@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#navbar-default
+{
+	background: -moz-linear-gradient(top, #ffaad5 0%, #ffffff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffaad5),color-stop(100%, #ffffff));
+	background: -webkit-linear-gradient(top, #ffaad5 0%, #ffffff 100%);
+	background: -o-linear-gradient(top, #ffaad5 0%, #ffffff 100%);
+	background: -ms-linear-gradient(top, #ffaad5 0%, #ffffff 100%);
+	background: linear-gradient(to bottom, #ffaad5 0%, #ffffff 100%);
+}
+#navbar-nav
+{
+	margin-top:1%;
+}
+.footer1 {
+	background: -moz-linear-gradient(bottom, #ffaad5 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0%,#ffaad5), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(bottom, #ffaad5 0%,#ffffff 100%);
+    background: -o-linear-gradient(bottom, #ffaad5 0%,#ffffff 100%);
+    background: -ms-linear-gradient(bottom, #ffaad5 0%,#ffffff 100%);
+    background: linear-gradient(to top, #ffaad5 0%,#ffffff 100%);
+    bottom:0;
+    left:0;
+    margin:0 0 0 0;
+	color: #000000;
+}
